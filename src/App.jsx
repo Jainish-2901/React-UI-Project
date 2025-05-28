@@ -4,7 +4,6 @@ import Sidebar from "./components/Sidebar";
 import Post from "./components/Post";
 import Rightbar from "./components/Rightbar";
 import { data, data2 } from "./components/data";
-import 'bootstrap/dist/css/bootstrap.css';
 
 const App = () => {
   const [bgColor, setbgColor] = useState("#232D3f");
